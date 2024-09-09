@@ -1,0 +1,17 @@
+*{
+margin: 0px;
+padding: 0px;
+}
+
+body{
+    background-image:url(gamegalaxy.jpg);
+    background-size: cover;
+}
+
+#startButton{
+    position: absolute;
+    left: 45%;
+    top:75%;
+    transform: scale(2.5);
+
+}
