@@ -9,4 +9,8 @@ Alien Ambush: Battle hostile extraterrestrials in an asteroid field to reach the
 Alien Enigma: The spaceship’s activation requires solving an intricate alien image puzzle. With eerie visuals, cryptic symbols, and a cosmic soundtrack, the astronaut’s fate hangs in the balance.
 
 # Link 
+Link for accessing our game website
+
 https://incomparable-cobbler-dbf90b.netlify.app/
+
+*Game Galaxy* lies in its diverse, multi-genre gaming experience set in an expansive galaxy. With runner, shooter and a maze it offers a unique blend of adventure, competition, and customization—keeping players engaged through exclusive events and galactic discoveries.
